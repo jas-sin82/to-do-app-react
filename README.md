@@ -1,8 +1,9 @@
 # to-do-list-app-react
 To-Do-list App React
 ## Frontend development project 
-
+#### To Delete list ! click on a list.
 [View Live To-do-list App Project Here](https://jas-sin82.github.io/to-do-app-react/)
+
 
 ## Available Scripts
 

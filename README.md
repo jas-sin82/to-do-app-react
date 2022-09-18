@@ -2,7 +2,7 @@
 To-Do-list App React
 ## Frontend development project 
 
-[View Live To-do-list App Project Here]( https://jas-sin82.github.io/expense-tracker/)
+[View Live To-do-list App Project Here](https://jas-sin82.github.io/to-do-app-react/)
 
 ## Available Scripts
 

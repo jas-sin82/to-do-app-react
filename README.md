@@ -4,8 +4,6 @@ To-Do-list App React
 
 [View Live To-do-list App Project Here]( https://jas-sin82.github.io/expense-tracker/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
